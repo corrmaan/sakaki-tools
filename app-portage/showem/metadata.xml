@@ -11,6 +11,7 @@
 				<name>sakaki</name>
 		</maintainer>
 		<bugs-to>mailto:sakaki@deciban.com</bugs-to>
+		<remote-id type="github">sakaki-/showem</remote-id>
 </upstream>
 <longdescription>
 		This is a very simple utility script, which allows you to monitor the
