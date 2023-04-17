@@ -5,7 +5,7 @@ EAPI=7
 
 DESCRIPTION="Build secure boot EFI kernel with LUKS, LVM and plymouth"
 HOMEPAGE="https://github.com/corrmaan/buildkernel"
-SRC_URI="https://codeload.github.com/corrmaan/${PN}/tar.gz/refs/tags/${PV}"
+SRC_URI="https://github.com/corrmaan/${PN}/archive/refs/tags/${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-3+"
 SLOT="0"
